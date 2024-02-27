@@ -1,0 +1,14 @@
+/Users/ilyabelov/Desktop/practice/TwelvethLab/bin/Debug/net8.0/TwelvethLab
+/Users/ilyabelov/Desktop/practice/TwelvethLab/bin/Debug/net8.0/TwelvethLab.deps.json
+/Users/ilyabelov/Desktop/practice/TwelvethLab/bin/Debug/net8.0/TwelvethLab.runtimeconfig.json
+/Users/ilyabelov/Desktop/practice/TwelvethLab/bin/Debug/net8.0/TwelvethLab.dll
+/Users/ilyabelov/Desktop/practice/TwelvethLab/bin/Debug/net8.0/TwelvethLab.pdb
+/Users/ilyabelov/Desktop/practice/TwelvethLab/obj/Debug/net8.0/TwelvethLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyabelov/Desktop/practice/TwelvethLab/obj/Debug/net8.0/TwelvethLab.AssemblyInfoInputs.cache
+/Users/ilyabelov/Desktop/practice/TwelvethLab/obj/Debug/net8.0/TwelvethLab.AssemblyInfo.cs
+/Users/ilyabelov/Desktop/practice/TwelvethLab/obj/Debug/net8.0/TwelvethLab.csproj.CoreCompileInputs.cache
+/Users/ilyabelov/Desktop/practice/TwelvethLab/obj/Debug/net8.0/TwelvethLab.dll
+/Users/ilyabelov/Desktop/practice/TwelvethLab/obj/Debug/net8.0/refint/TwelvethLab.dll
+/Users/ilyabelov/Desktop/practice/TwelvethLab/obj/Debug/net8.0/TwelvethLab.pdb
+/Users/ilyabelov/Desktop/practice/TwelvethLab/obj/Debug/net8.0/TwelvethLab.genruntimeconfig.cache
+/Users/ilyabelov/Desktop/practice/TwelvethLab/obj/Debug/net8.0/ref/TwelvethLab.dll

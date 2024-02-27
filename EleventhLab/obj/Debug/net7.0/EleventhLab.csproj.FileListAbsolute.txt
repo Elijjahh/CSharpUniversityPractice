@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\practice\EleventhLab\bin\Debug\net8.0\EleventhLab.exe
+C:\Users\User\Desktop\practice\EleventhLab\bin\Debug\net8.0\EleventhLab.deps.json
+C:\Users\User\Desktop\practice\EleventhLab\bin\Debug\net8.0\EleventhLab.runtimeconfig.json
+C:\Users\User\Desktop\practice\EleventhLab\bin\Debug\net8.0\EleventhLab.dll
+C:\Users\User\Desktop\practice\EleventhLab\bin\Debug\net8.0\EleventhLab.pdb
+C:\Users\User\Desktop\practice\EleventhLab\obj\Debug\net8.0\EleventhLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\practice\EleventhLab\obj\Debug\net8.0\EleventhLab.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\practice\EleventhLab\obj\Debug\net8.0\EleventhLab.AssemblyInfo.cs
+C:\Users\User\Desktop\practice\EleventhLab\obj\Debug\net8.0\EleventhLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\practice\EleventhLab\obj\Debug\net8.0\EleventhLab.dll
+C:\Users\User\Desktop\practice\EleventhLab\obj\Debug\net8.0\refint\EleventhLab.dll
+C:\Users\User\Desktop\practice\EleventhLab\obj\Debug\net8.0\EleventhLab.pdb
+C:\Users\User\Desktop\practice\EleventhLab\obj\Debug\net8.0\EleventhLab.genruntimeconfig.cache
+C:\Users\User\Desktop\practice\EleventhLab\obj\Debug\net8.0\ref\EleventhLab.dll

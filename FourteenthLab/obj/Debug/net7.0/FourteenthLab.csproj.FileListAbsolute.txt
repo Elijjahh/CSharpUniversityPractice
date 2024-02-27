@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\practice\FourteenthLab\bin\Debug\net8.0\FourteenthLab.exe
+C:\Users\User\Desktop\practice\FourteenthLab\bin\Debug\net8.0\FourteenthLab.deps.json
+C:\Users\User\Desktop\practice\FourteenthLab\bin\Debug\net8.0\FourteenthLab.runtimeconfig.json
+C:\Users\User\Desktop\practice\FourteenthLab\bin\Debug\net8.0\FourteenthLab.dll
+C:\Users\User\Desktop\practice\FourteenthLab\bin\Debug\net8.0\FourteenthLab.pdb
+C:\Users\User\Desktop\practice\FourteenthLab\obj\Debug\net8.0\FourteenthLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\practice\FourteenthLab\obj\Debug\net8.0\FourteenthLab.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\practice\FourteenthLab\obj\Debug\net8.0\FourteenthLab.AssemblyInfo.cs
+C:\Users\User\Desktop\practice\FourteenthLab\obj\Debug\net8.0\FourteenthLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\practice\FourteenthLab\obj\Debug\net8.0\FourteenthLab.dll
+C:\Users\User\Desktop\practice\FourteenthLab\obj\Debug\net8.0\refint\FourteenthLab.dll
+C:\Users\User\Desktop\practice\FourteenthLab\obj\Debug\net8.0\FourteenthLab.pdb
+C:\Users\User\Desktop\practice\FourteenthLab\obj\Debug\net8.0\FourteenthLab.genruntimeconfig.cache
+C:\Users\User\Desktop\practice\FourteenthLab\obj\Debug\net8.0\ref\FourteenthLab.dll
